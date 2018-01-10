@@ -22,7 +22,14 @@ node server.js
 
 ## Screenshots
 
+### Homepage
 ![News Scrapper-1](./public/assets/images/image01.png)
+
+### Scrapped articles
 ![News Scrapper-2](./public/assets/images/image02.png)
+
+### Add a note to the article
 ![News Scrapper-3](./public/assets/images/image03.png)
+
+### Modal window to add or delete note
 ![News Scrapper-3](./public/assets/images/image04.png)
