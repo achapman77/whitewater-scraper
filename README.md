@@ -33,3 +33,6 @@ node server.js
 
 ### Modal window to add or delete note
 ![News Scrapper-3](./public/assets/images/image04.png)
+
+### About section
+![News Scrapper-3](./public/assets/images/image04.png)
