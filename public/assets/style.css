@@ -74,7 +74,7 @@ button:active {
 }
 
 #deletenote {
-	background-color: #d9534f;
+	background-color: #F89406;
 	color:white;
 	border-style: none;
 	font-size: 10px;
@@ -92,7 +92,7 @@ button:active {
 }
 
 .modal .modal-header {
-	background-color: #90C0E0;
+	background-color: #0088cc;
 	color: white;
 }
 

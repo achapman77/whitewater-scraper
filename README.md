@@ -25,3 +25,4 @@ node server.js
 ![News Scrapper-1](./public/assets/image01.png)
 ![News Scrapper-2](./public/assets/image02.png)
 ![News Scrapper-3](./public/assets/image03.png)
+![News Scrapper-3](./public/assets/image04.png)
