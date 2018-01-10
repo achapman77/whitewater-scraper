@@ -11,6 +11,11 @@
 ```shell
 npm install
 ```
+### Run Mongo DB and initialize db
+```shell
+mongod
+use test
+```
 ### Start the server
 ```shell
 node server.js
@@ -35,4 +40,4 @@ node server.js
 ![News Scrapper-3](./public/assets/images/image04.png)
 
 ### About section
-![News Scrapper-3](./public/assets/images/image04.png)
+![News Scrapper-3](./public/assets/images/image05.png)
